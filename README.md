@@ -1,1 +1,6 @@
-This project will allow someone who has lost their ability to speak to use voice samples from old videos or recordings etc. in order to create a voice profile which will be used to syntesize voice from lip reading in real time, allowing them to communicate almost normally.
+Introducing: Vocalize AI
+ 
+
+Empowering Voices, Redefining Communication.
+
+Vocalize AI is the ultimate solution for those unable to speak, bridging the gap between silence and expression. Using advanced AI, it translates lip movements into text and generates speech, restoring the ability to connect and communicate.
